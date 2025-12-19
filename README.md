@@ -6,8 +6,6 @@ I enjoy Learning about the Working of Every System I work on in depth as it give
 
 ---
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" style="transform: rotate(180deg);"/>
-
 <h3 align="center">▸ What I care about</h3>
 <p align="center">
 Backend and API design • Practical and Good looking Frontend along with their design • Understanding the machine I work on • Linux Based Systems • Mentoring and technical leadership
