@@ -35,5 +35,4 @@ I enjoy Learning about the Working of Every System I work on in depth as it give
 
 ### Connect
 
-- LinkedIn:
-- Email: …
+[LinkedIn](https://www.linkedin.com/in/gopal-yadav-aa355b260/)
